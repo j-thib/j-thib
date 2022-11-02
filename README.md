@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thibj
+- 👋 Hi, I’m Jesse
 - 👀 I’m interested in deep learning
 - 🌱 I’m currently learning reinforcement learning
 - 📫 Reach me by email at jesse.thibodeau1@gmail.com
