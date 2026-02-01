@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jesse, an R&D researcher at [R2](https://r2.ca/)
+- 👋 Hi, I’m Jesse, an AI Lead at [Valstone](https://www.valstonecorp.com/)
 - 👀 I'm interested in reinforcement learning for industrial control optimization
-- 📫 Reach me by email at jesse.thibodeau@r2.ca
+- 📫 Reach me by email at j.thibodeau@valstonecorp.com
 - 📚 For my academic profile, check out my [webpage](https://sites.google.com/view/jesse-thibodeau/)
 
 <!---
